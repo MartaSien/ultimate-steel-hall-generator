@@ -1,0 +1,9 @@
+[DEFAULT]
+segments='2'
+width='12'
+height='3'
+
+[img size]
+thumbw='500'
+thumbh='375'
+
