@@ -10,4 +10,4 @@ A simple programme which generates steel hall image in various configurations us
 To create an image change options in the left menu column and press a button "Submit". 
 To save an image to .png file click "Save" button.
 
-![GUI View](Model_Hali/ReadmeResources/gui-view.png)
+![GUI View](ReadmeResources/gui-view.png)
